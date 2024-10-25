@@ -44,6 +44,10 @@ Our Service does not use cookies, tracking technologies, or similar methods to c
 
 We retain only the minimal personal data necessary to fulfill the purposes outlined in this Privacy Policy, such as maintaining your account and facilitating access to the Service. Data retention is limited to the minimum period required to meet legal and contractual obligations.
 
+### **AI Data Usage Disclosure**
+
+Our Service leverages generative AI and large language models (LLMs) to provide responses and fulfill user requests. Any input provided to our Service is processed by these models to generate responses. While we strive for accuracy, outputs from the AI model may occasionally be incomplete, inaccurate, or out of date. Users are encouraged to verify critical information and use the Service’s responses as supplemental information.
+
 ---
 
 ### **3. Lawful Bases for Processing Personal Data (GDPR)**
